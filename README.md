@@ -1,4 +1,5 @@
 commit message
+
 # Study Tips for Programming
 
 ## What
@@ -10,5 +11,7 @@ Many beginners feel lost and don't know how to study code effectively. This guid
 ## How
 Our team adds sections through branches and pull requests, reviewing each other's work before merging.
 
-## When
-Studying during the morning is better than studying during the evening
+## Study habits
+- Practice coding every day
+- Build small projects
+- Take breaks to avoid burnout
